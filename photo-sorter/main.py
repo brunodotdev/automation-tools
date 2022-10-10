@@ -56,9 +56,7 @@ def main():
 
         destination = os.path.join(date, extension.lower(), file)
         if not os.path.exists(destination):
-            shutil.copy(source, destination)
-        else:
-            print(f"{source} has not been moved")
+            shutil.move(source, destination)
 
     print(">>> [*] Files sorted")
 
