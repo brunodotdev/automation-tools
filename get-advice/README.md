@@ -5,7 +5,7 @@ From the automation series.
 
 ### Get FREE daily advices with a single click
 
-[ADVICE SLIP]("https://api.adviceslip.com") provides a free api to retrieve advices at any moment anywhere.
+[ADVICE SLIP](https://api.adviceslip.com) provides a free api to retrieve advices at any moment anywhere.
 As they state on their website: "It currently gives out over 10 million pieces of advice every year."
 
 ---
